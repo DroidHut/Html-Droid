@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">UrlApp</string>
+    <string-array name="urls">
+        <item>https://www.google.com/</item>
+        <item>https://www.youtube.com/</item>
+        <item>https://www.facebook.com/search?p=</item>
+        <item>https://www.wikipedia.org/"</item>
+        <item>https://www.reddit.com/</item>
+        <item>https://www.amazon.com/</item>
+        <item>https://www.twitter.com/search?p=</item>
+        <item>https://www.instagram.com/</item>
+        <item>https://www.linkedin.com/</item>
+        <item>https://www.netflix.com/</item>
+
+        <item>https://www.snapchat.com/</item>
+        <item>https://www.tumblr.com/</item>
+        <item>https://www.pinterest.com/</item>
+        <item>https://vimeo.com/</item>
+        <item>https://www.viber.com/</item>
+        <item>https://vk.com/</item>
+        <item>https://www.flickr.com/</item>
+        <item>https://myspace.com/</item>
+        <item>http://digg.com/</item>
+        <item>https://vine.co/</item>
+
+        <item>https://news.google.com/news/</item>
+        <item>http://www.bbc.com/news/</item>
+        <item>http://www.telegraph.co.uk/</item>
+        <item>http://edition.cnn.com/</item>
+        <item>https://www.usatoday.com/</item>
+        <item>www.huffingtonpost.com/</item>
+        <item>timesofindia.indiatimes.com/</item>
+        <item>http://www.thehindu.com/</item>
+        <item>http://www.hindustantimes.com/</item>
+        <item>https://www.ebay.com/</item>
+        <item>https://www.flipkart.com/</item>
+        <item>http://www.shopclues.com</item>
+        <item>https://www.paypal.com/</item>
+        <item>https://paytm.com/</item>
+
+        <item>https://stackoverflow.com/</item>
+        <item>https://wordpress.com/</item>
+        <item>https://github.com/</item>
+        <item>https://www.quora.com/</item>
+        <item>https://www.blogger.com/</item>
+        <item>https://www.rss.com/</item>
+        <item>http://www.msn.com/</item>
+        <item>https://soundcloud.com/</item>
+        <item>https://www.skype.com/en/</item>
+        <item>https://www.uber.com/</item>
+
+    </string-array>
+</resources>
